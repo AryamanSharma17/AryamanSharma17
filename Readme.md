@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **aryaman.aryan@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/AryamanSharma17/AryamanSharma17/blob/main/Aryaman-Sharma.pdf](https://github.com/AryamanSharma17/AryamanSharma17/blob/main/Aryaman-Sharma.pdf)
+- 📄 Know about my experiences [🚧 🛠️ ⏳Potfolio⏳ 🛠️ [🚧](https://aryamansharma17.github.io/)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sharma-aryaman/) 
