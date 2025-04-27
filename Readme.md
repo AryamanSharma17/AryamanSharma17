@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aryaman</h1>
 <h3 align="center">I am a Master of Science Student in Computer Science specializing in Imaging and Light in Extended Reality (imlex.org)</h3>
 
-- 🔭 I’m currently working on [Improving 2D Gaussian Splatting for geometric accuracy]#(https://github.com/AryamanSharma17/ReGauss_Nerfstudio)
+- 🔭 I’m currently working on [Improving 2D Gaussian Splatting for geometric accuracy] <!---(https://github.com/AryamanSharma17/ReGauss_Nerfstudio)-->
 
 - 📫 How to reach me **aryaman.aryan@gmail.com**
 
