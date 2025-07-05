@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aryaman</h1>
-<h3 align="center">I am a Master of Science Student in Computer Science specializing in Imaging and Light in Extended Reality (imlex.org)</h3>
+<h3 align="center">I am a Postgraduate researcher at the University of Siegen in the Chair for Computer Graphics and Multimedia.</h3>
+<h3 align="center">I hold multiple Master's degrees in Imaging and Light in Extended Reality (imlex.org) from the University of Eastern Finland, Jean Monnet Universite and Toyohashi University of Technology, and also a Bachelor's degree in Applied Optics and Photonics from the University of Calcutta.
 
-- 🔭 I’m currently working on [Improving 2D Gaussian Splatting for geometric accuracy] <!---(https://github.com/AryamanSharma17/ReGauss_Nerfstudio)-->
+- 🔭 I’m currently working on [Improving Gaussian Splatting for geometric accuracy] <!---(https://github.com/AryamanSharma17/ReGauss_Nerfstudio)-->
 
-- 📫 How to reach me **aryaman.aryan@gmail.com**
+- 📫 How to reach me **sharmaaryaman17@gmail.com**
 
 - 📄 Know about my experiences [🚧 🛠️ ⏳Potfolio⏳ 🛠️ 🚧](https://aryamansharma17.github.io/)
 
